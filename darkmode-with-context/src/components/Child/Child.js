@@ -1,10 +1,10 @@
 import React from 'react';
 
 import Button from '../Button/Button';
-import Parent from '../Parent/Parent';
+
 const Child = () => {
 	<div>
-		<Parent />
+		<h3>Child</h3>
 		<Button />
 	</div>;
 };
